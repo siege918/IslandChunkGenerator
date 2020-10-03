@@ -1,0 +1,8 @@
+name: IslandGenerator
+version: 0.0.1
+description: Generates a map with islands of 
+author: takesiege
+main: fun.collin.minecraft.App
+load: startup
+api-version: 1.15
+depend: [WorldGeneratorApi]
